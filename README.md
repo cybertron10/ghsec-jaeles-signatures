@@ -1,4 +1,4 @@
-# ghsec-jaeles-signatures
+# jaeles-signatures
 
 Author: @j3ssie
 
@@ -35,9 +35,3 @@ Example: ```jaeles scan -u http://example.com/path?param=something -s ssrf.yaml 
 
 ### SSTI
 * Template-Injection.yaml
-
-
-Twitter: @[GochaOqradze](https://twitter.com/GochaOqradze)
-
-### Donate me: 
-https://www.paypal.me/Okradze
